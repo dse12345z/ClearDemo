@@ -17,7 +17,9 @@
 
     UIBezierPath *bezierPath = [[UIBezierPath alloc] init];
 
-    [bezierPath moveToPoint:CGPointMake(0, 0)];;;
+    
+    [bezierPath moveToPoint:CGPointMake(0, 0)];;;;;;;;;;
+    
     
     
     [bezierPath addLineToPoint: CGPointMake(50, 50)];
@@ -25,6 +27,9 @@
     
     CAShapeLayer    * shapeLayer = [[CAShapeLayer alloc] init];;;;;;;;
 
+    
+    
+    
     shapeLayer.path =bezierPath.CGPath;
     
     
