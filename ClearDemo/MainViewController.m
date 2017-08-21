@@ -25,7 +25,7 @@
     [bezierPath addLineToPoint: CGPointMake(50, 50)];
     
     
-    CAShapeLayer    * shapeLayer = [[CAShapeLayer alloc] init];;;;;;;;
+    CAShapeLayer    *  shapeLayer = [[CAShapeLayer alloc] init];;;;;;;;;;;;
 
     
     
