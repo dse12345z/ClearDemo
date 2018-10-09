@@ -20,6 +20,7 @@
     self.window.rootViewController = [MainViewController new];
     [self.window makeKeyAndVisible];
     return YES;
+    
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
